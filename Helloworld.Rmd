@@ -12,6 +12,8 @@ output: html_document
 
 ## this is a markdown file
 
+* The RMD file is saved in a format that enables creation of dynamic presentations, reports, and documents. It consists of the syntax of markdown with embedded R code chunks that can be run, which allows the output to be included in the document.
+
 ```{r cars}
 ```
 
